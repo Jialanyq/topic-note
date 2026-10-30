@@ -42,7 +42,7 @@ A WorkBuddy skill that turns pasted copy into an archived, structured Chinese re
 ## 安装
 
 ```bash
-git clone https://github.com/<your-username>/topic-note.git ~/.workbuddy-ai/skills/topic-note
+git clone https://github.com/Jialanyq/topic-note.git ~/.workbuddy-ai/skills/topic-note
 ```
 
 或者把 `SKILL.md` 和 `references/` 手动拷到 `~/.workbuddy-ai/skills/topic-note/`。
